@@ -1,3 +1,7 @@
+## Circuit Diagram
+
+![Circuit](circuit.png)
+
 # Smart Door Lock with Intrusion Detection
 
 ## Description
