@@ -1,3 +1,8 @@
-# iot Security Projects
+# IoT Security Projects
 
-Arduino, Tinkercad, and Wokwi security projects.
+Collection of Arduino-based security projects.
+
+## Projects
+
+- Smart Door Lock
+- Laser Tripwire Alarm
